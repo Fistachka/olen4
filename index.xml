@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>olen4</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="Fistachka" repo="bandito"/>
   <readme>
     <ru>97525cec2758ab5fe58b0a218066091bce18634e0e288644c058754666d5dcc0</ru>
@@ -97,16 +97,16 @@
     <cadenceVariant>harmonic</cadenceVariant>
     <bpm>100</bpm>
     <lowestNote>18</lowestNote>
-    <tonalities>2</tonalities>
+    <tonalities>3</tonalities>
     <video name="39.mp4" size="1002208" type="video/mp4" volume="0.5">156aca85f3cae95595669193bcd6949b8336ea4b5ce591c19ad9d4c3a2e8c50c</video>
     <notes>
-      <note number="1" values="38" ticks="80" durationTicks="48" ppq="96" velocity="0.732"/>
-      <note number="2" values="28" ticks="127" durationTicks="47" ppq="96" velocity="0.835"/>
-      <note number="3" values="18" ticks="196" durationTicks="24" ppq="96" velocity="0.802"/>
-      <note number="4" values="78" ticks="224" durationTicks="45" ppq="96" velocity="0.78"/>
-      <note number="5" values="68" ticks="272" durationTicks="46" ppq="96" velocity="0.764"/>
-      <note number="6" values="58" ticks="320" durationTicks="48" ppq="96" velocity="0.827"/>
-      <note number="7" values="48" ticks="369" durationTicks="47" ppq="96" velocity="0.827"/>
+      <note number="1" values="38" ticks="70" durationTicks="48" ppq="96" velocity="0.732"/>
+      <note number="2" values="28" ticks="117" durationTicks="47" ppq="96" velocity="0.835"/>
+      <note number="3" values="18" ticks="186" durationTicks="24" ppq="96" velocity="0.802"/>
+      <note number="4" values="78" ticks="214" durationTicks="45" ppq="96" velocity="0.78"/>
+      <note number="5" values="68" ticks="262" durationTicks="46" ppq="96" velocity="0.764"/>
+      <note number="6" values="58" ticks="310" durationTicks="48" ppq="96" velocity="0.827"/>
+      <note number="7" values="48" ticks="359" durationTicks="47" ppq="96" velocity="0.827"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -114,18 +114,18 @@
     <cadenceVariant>harmonic</cadenceVariant>
     <bpm>100</bpm>
     <lowestNote>5</lowestNote>
-    <tonalities>2</tonalities>
+    <tonalities>3</tonalities>
     <video name="40.mp4" size="1614436" type="video/mp4" volume="0.5">ed9e9db29c2409739635de15e462c2853b71c15ad7cd4cc106cea9e87d4787ee</video>
     <notes>
-      <note number="1" values="18" ticks="106" durationTicks="47" ppq="96" velocity="0.803"/>
-      <note number="2" values="79" ticks="154" durationTicks="27" ppq="96" velocity="0.764"/>
-      <note number="3" values="79" ticks="198" durationTicks="26" ppq="96" velocity="0.803"/>
+      <note number="1" values="18" ticks="106" durationTicks="47" ppq="96" velocity="0.754"/>
+      <note number="2" values="79" ticks="154" durationTicks="27" ppq="96" velocity="0.814"/>
+      <note number="3" values="79" ticks="198" durationTicks="26" ppq="96" velocity="0.754"/>
       <note number="4" values="79" ticks="246" durationTicks="35" ppq="96" velocity="0.803"/>
-      <note number="5" values="79" ticks="294" durationTicks="36" ppq="96" velocity="0.803"/>
+      <note number="5" values="79" ticks="294" durationTicks="36" ppq="96" velocity="0.757"/>
       <note number="6" values="79" ticks="343" durationTicks="35" ppq="96" velocity="0.803"/>
-      <note number="7" values="79" ticks="389" durationTicks="36" ppq="96" velocity="0.803"/>
+      <note number="7" values="79" ticks="389" durationTicks="36" ppq="96" velocity="0.752"/>
       <note number="8" values="69" ticks="438" durationTicks="35" ppq="96" velocity="0.803"/>
-      <note number="9" values="79" ticks="488" durationTicks="47" ppq="96" velocity="0.803"/>
+      <note number="9" values="79" ticks="488" durationTicks="47" ppq="96" velocity="0.742"/>
       <note number="10" values="18" ticks="534" durationTicks="95" ppq="96" velocity="0.803"/>
     </notes>
   </exercise>
@@ -134,19 +134,19 @@
     <cadenceVariant>harmonic</cadenceVariant>
     <bpm>100</bpm>
     <lowestNote>5</lowestNote>
-    <tonalities>2</tonalities>
+    <tonalities>3</tonalities>
     <video name="41.mp4" size="1738567" type="video/mp4" volume="0.5">d3ddc2d0decfaff8819727fbe02a3bc74b4d3bb3b987fef62266de2ac4a8950d</video>
     <notes>
-      <note number="1" values="18" ticks="172" durationTicks="47" ppq="96" velocity="0.795"/>
-      <note number="2" values="79" ticks="220" durationTicks="27" ppq="96" velocity="0.764"/>
-      <note number="3" values="79" ticks="264" durationTicks="26" ppq="96" velocity="0.795"/>
-      <note number="4" values="79" ticks="312" durationTicks="35" ppq="96" velocity="0.795"/>
-      <note number="5" values="79" ticks="360" durationTicks="36" ppq="96" velocity="0.795"/>
-      <note number="6" values="79" ticks="409" durationTicks="35" ppq="96" velocity="0.795"/>
-      <note number="7" values="79" ticks="455" durationTicks="36" ppq="96" velocity="0.795"/>
-      <note number="8" values="69" ticks="504" durationTicks="35" ppq="96" velocity="0.795"/>
-      <note number="9" values="79" ticks="554" durationTicks="47" ppq="96" velocity="0.795"/>
-      <note number="10" values="18" ticks="600" durationTicks="95" ppq="96" velocity="0.795"/>
+      <note number="1" values="18" ticks="176" durationTicks="47" ppq="96" velocity="0.759"/>
+      <note number="2" values="79" ticks="224" durationTicks="27" ppq="96" velocity="0.797"/>
+      <note number="3" values="79" ticks="268" durationTicks="26" ppq="96" velocity="0.757"/>
+      <note number="4" values="79" ticks="316" durationTicks="35" ppq="96" velocity="0.795"/>
+      <note number="5" values="79" ticks="364" durationTicks="36" ppq="96" velocity="0.754"/>
+      <note number="6" values="79" ticks="413" durationTicks="35" ppq="96" velocity="0.795"/>
+      <note number="7" values="79" ticks="459" durationTicks="36" ppq="96" velocity="0.749"/>
+      <note number="8" values="69" ticks="508" durationTicks="35" ppq="96" velocity="0.795"/>
+      <note number="9" values="79" ticks="558" durationTicks="47" ppq="96" velocity="0.759"/>
+      <note number="10" values="18" ticks="604" durationTicks="95" ppq="96" velocity="0.795"/>
     </notes>
   </exercise>
   <exercise number="9">
@@ -154,19 +154,19 @@
     <cadenceVariant>harmonic</cadenceVariant>
     <bpm>100</bpm>
     <lowestNote>5</lowestNote>
-    <tonalities>2</tonalities>
+    <tonalities>3</tonalities>
     <video name="42.mp4" size="2535813" type="video/mp4" volume="0.5">1449a8f6aa74b2efd537a4cbe94c4ddb7138958d7812a16afbe16eac45b23da4</video>
     <notes>
-      <note number="1" values="18" ticks="108" durationTicks="47" ppq="96" velocity="0.795"/>
-      <note number="2" values="79" ticks="156" durationTicks="27" ppq="96" velocity="0.764"/>
-      <note number="3" values="79" ticks="200" durationTicks="26" ppq="96" velocity="0.795"/>
-      <note number="4" values="79" ticks="248" durationTicks="35" ppq="96" velocity="0.795"/>
-      <note number="5" values="79" ticks="296" durationTicks="36" ppq="96" velocity="0.795"/>
-      <note number="6" values="79" ticks="345" durationTicks="35" ppq="96" velocity="0.795"/>
-      <note number="7" values="79" ticks="391" durationTicks="36" ppq="96" velocity="0.795"/>
-      <note number="8" values="69" ticks="440" durationTicks="35" ppq="96" velocity="0.795"/>
-      <note number="9" values="79" ticks="490" durationTicks="47" ppq="96" velocity="0.795"/>
-      <note number="10" values="18" ticks="536" durationTicks="95" ppq="96" velocity="0.795"/>
+      <note number="1" values="18" ticks="114" durationTicks="47" ppq="96" velocity="0.759"/>
+      <note number="2" values="79" ticks="162" durationTicks="27" ppq="96" velocity="0.814"/>
+      <note number="3" values="79" ticks="206" durationTicks="26" ppq="96" velocity="0.769"/>
+      <note number="4" values="79" ticks="254" durationTicks="35" ppq="96" velocity="0.795"/>
+      <note number="5" values="79" ticks="302" durationTicks="36" ppq="96" velocity="0.754"/>
+      <note number="6" values="79" ticks="351" durationTicks="35" ppq="96" velocity="0.795"/>
+      <note number="7" values="79" ticks="397" durationTicks="36" ppq="96" velocity="0.757"/>
+      <note number="8" values="69" ticks="446" durationTicks="35" ppq="96" velocity="0.795"/>
+      <note number="9" values="79" ticks="496" durationTicks="47" ppq="96" velocity="0.742"/>
+      <note number="10" values="18" ticks="542" durationTicks="609" ppq="96" velocity="0.795"/>
     </notes>
   </exercise>
 </level>
