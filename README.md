@@ -4,7 +4,7 @@
 ![8](https://github.com/user-attachments/assets/c860cd51-a376-4064-814a-2ecb0995d15e)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/1206AwSzV7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzyCIM9U_Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dOkc0oslLxg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Со мной лесной олень,
 По моему хотенью.
@@ -26,7 +26,7 @@ stolbitsa.com/fistachka/olen3<br><br>
 ![8](https://github.com/user-attachments/assets/c860cd51-a376-4064-814a-2ecb0995d15e)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/bQVPJYUNZM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-GQ_ENCXogw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a--i7oNM-ww" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 So mnoj lesnoj olen',
 Po moemu hoten'yu.
